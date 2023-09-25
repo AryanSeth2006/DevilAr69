@@ -1,4 +1,4 @@
-- 🌱Learning C++,C & Python
+- 🌱Learning C++,C,Python & HTML.
 
 <!---
 DevilAr69/DevilAr69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
